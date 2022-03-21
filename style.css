@@ -115,7 +115,9 @@ p {
     font-size: 14px;
   }
 
-  .primary-link {
-    width: 100%;
+  .launch-link {
+      display: block;
+       text-align: center;
+    margin: 0px 30px;
   }
 }
