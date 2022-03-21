@@ -116,8 +116,8 @@ p {
   }
 
   .launch-link {
-      display: block;
-       text-align: center;
+    display: block;
+    text-align: center;
     margin: 0px 30px;
   }
 }
